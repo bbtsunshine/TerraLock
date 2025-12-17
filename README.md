@@ -23,6 +23,7 @@ A Geographic-Aware UAV Pose Estimation System
 
 If you need to run this project, you will require the MixVPR project and the GIM project. Their GitHub links are:
   https://github.com/amaralibey/MixVPR.git
+  
   https://github.com/xuelunshen/gim.git
 Place its project files in the ./ directory.And enter the correct dataset and file paths into the mian.py file.
 
